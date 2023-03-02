@@ -1,11 +1,5 @@
 # Mechanical Project
 
-![alt text](https://github.com/onderest/Mechanical-keypad/blob/main/Fig1.png?raw=true)
-
-Fig.1 - Our two competing cars and trophy, first and second place!!! 
-
-
-## Introduction
 
 Wanted to design a soundboard/streamdeck instead of buying one. Design made in Fusion 360, code in Arduino and made using Arduino Micro with USB-C.
 

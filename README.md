@@ -2,6 +2,7 @@
 
 
 Wanted to design a soundboard/streamdeck instead of buying one. Design made in Fusion 360, code in Arduino and made using Arduino Micro with USB-C.
+
 Turned out great but i want to make the next version with potentiometers to adjust volume for diffrent programs.
 
 ![alt text](https://github.com/onderest/Mechanical-keypad/blob/main/Fig1.png?raw=true)

@@ -1,9 +1,9 @@
 # Mechanical Keypad
 
 
-Wanted to design a soundboard/streamdeck instead of buying one. Design made in Fusion 360, code in Arduino and made using Arduino Micro with USB-C.
+Wanted to design a soundboard/streamdeck instead of buying one. The design made in Fusion 360, code in Arduino IDE and hardware is an Arduino Micro with USB-C.
 
-Turned out great but i want to make the next version with potentiometers to adjust volume for diffrent programs.
+Turned out great but i want to make the next version with potentiometers to be able to adjust volume for diffrent programs.
 
 
 # Build
